@@ -39,8 +39,23 @@ form {
 
 table {
     border: solid 1px black;
+    margin: 50px auto auto auto;
 }
 
 td  {
     border: solid 1px black;
+}
+
+form label {
+    font-weight: bold;
+}
+
+form div {
+    margin: 15px;
+    display: block;
+    text-align: center;
+}
+
+fieldset {
+    font-weight: bold;
 }
